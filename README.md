@@ -6,7 +6,7 @@
 
 <hr>
 <br>
-<ul align="Left">
+<ul align="left">
   <li>👨‍💻 I’m currently into Backend with Go</li>
   <li>🌱 I’m currently learning on K8s</li>
   <li>📚 I will be learning Rust later on</li>
@@ -23,124 +23,143 @@
 <!--Self-expression fuels my coding creativity.-->
 <!--Authenticity: Key to Engineering Success-->
 <!--Software engineers embrace individuality for innovation.-->
-
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Ah3zHH7hvsSB2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2"></a></p>
-
-<h3 align="center">Language</h3>
-<p align="center">
-  <a href="https://go.dev/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" height="50" style="vertical-align: top;">
-  </a>
-  <a href="https://www.python.org/" target="blank">
-    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" height="50" style="vertical-align: top;">
-  </a>
-  <a href="https://www.w3schools.com/html/" target="blank">
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" height="50" style="vertical-align: top;">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="50" style="vertical-align: top;">
-  </a>
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" height="50" style="vertical-align: top;">
-  </a>
-  <a href="https://www.iso.org/standard/74528.html" target="blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="50" style="vertical-align: top;">
-  </a>
-</p>
-
-<h3 align="center">Frontend Tools</h3>
-<p align="center">
-<a href="https://getbootstrap.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-      alt="bootstrap" alt="bootstrap" height="50" style="vertical-align:top"/>
-</a>
-<a href="https://jquery.com/" target="blank">
-  <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"
-      alt="jquery" height="50" style="vertical-align:top"/>
-  </a>
-</p>
+<!-- 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="60%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div> -->
+<!-- <div style="width:100%;max-width:500px;height:0;padding-bottom:56%;position:relative;margin: 0 auto;">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="50%" height="50%" style="position:absolute;top:0;left:0;border:0;" class="giphy-embed" allowFullScreen>
+</div> -->
+<div style="width:100%;max-width:500px;height:0;padding-bottom:56%;position:relative;margin: 0 auto;">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="50%" height="50%" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);border:0;" class="giphy-embed" allowFullScreen>
+</div>
 
 
-<h3 align="center">Backend Tools</h3>
-<p align="center">
-  <a href="https://gin-gonic.com/" target="blank"> 
- <img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin-gonic" height="50" style="vertical-align:top">
-  </a>
-   <a href="https://www.docker.com/" target="blank">
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="cpp" height="50"
-style="vertical-align:top">
-  </a>
-  <a href="https://kubernetes.io/" target="blank"> 
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="cpp" height="50" style="vertical-align:top">
-  </a>
-  <a href="https://nginx.org/" target="blank"> 
-  <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" alt="nginx" height="50"
-style="vertical-align:top">
-  </a>
-</p>
-
-<h3 align="center">Database Tools</h3>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="blank"> 
-     <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB" height="50" style="vertical-align:top">
-  </a>
-   <a href="https://www.postgresql.org/" target="blank"> 
-   <img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="postgresql" height="50" style="vertical-align:top">
-  </a>
-</p>
-
-
-<h3 align="center">Cloud & Hosting Platforms</h3>
-<p align="center">
-  <a href="https://render.com/" target="blank">
-       <img src="https://imgs.search.brave.com/KAQiCDcWu9GXVw4y1XDvqZCB7v8njCAjr9VHRLw_0ck/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vY3J1bmNoYmFz/ZS1wcm9kdWN0aW9u/L2ltYWdlL3VwbG9h/ZC9jX2xwYWQsaF8y/NTYsd18yNTYsZl9h/dXRvLHFfYXV0bzpl/Y28sZHByXzEvajh6/MDJzc3RlZWE0emox/azFueXo" alt="aws" height="50" style="vertical-align:top">
-  </a>
-
-  <a href="https://aws.amazon.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" height="50" style="vertical-align:top">
-  </a>
-  </a>
-</p>
-
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com" target="blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-      alt="git" height="40" style="vertical-align:top; margin:5px"/>
-  </a>
-  <a href="https://github.com/dev-ayaa" target="blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" style="vertical-align:top; margin:5px"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/512px-GitLab_logo.svg.png?20220125120047"
-      alt="git" height="40" style="vertical-align:top; margin:5px"/>
-  </a>
-  
-  <a href="https://www.travis-ci.com/" target="blank"> 
-    <img src="https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png" alt="travis-ci" height="40" style="vertical-align:top; margin:5px"/> 
-  </a>
-</p>
-
-<h3 align="center">Preferred IDEs & Tools</h3>
-<p align="center"> 
-  <a href="http://neovim.io/" target="blank">
-    <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="nvim" height="50" style="vertical-align:top"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="50" style="vertical-align:top">
-  </a>
-  <a href="https://www.jetbrains.com/" target="blank">
-    <img src="https://www.logo.wine/a/logo/JetBrains/JetBrains-Logo.wine.svg" alt="jetbrains" height="50" style="vertical-align:top"/>
-  </a>
-  <a href="https://postman.com" target="blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="50" style="vertical-align:top"/>
-  </a>
-  <a href="https://ubuntu.com/" target="blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu"  height="50" style="vertical-align:top"/>
-  </a>
-</p>
-
+<table style=" border: 1px solid black; padding:2em 2em; border-collapse: collapse">
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<h2 align="center">Computing Skills</h2>
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Programming Languages</th>
+			<td><a href="https://go.dev/" target="blank">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go"
+						height="40">
+				</a></td>
+			<td><a href="https://www.python.org/" target="blank">
+					<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python"
+						height="40">
+				</a></td>
+			<td><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+					target="blank">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+						alt="Javascript" height="40">
+				</a></td>
+			<td><a href="https://www.iso.org/standard/74528.html" target="blank">
+					<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40">
+				</a></td>
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Backend</th>
+			<td><a href="https://gin-gonic.com/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin-gonic" height="40"
+						style="vertical-align:top">
+				</a></td>
+			<td> <a href="https://www.docker.com/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+						alt="cpp" height="40" style="vertical-align:top"></td>
+			<td> <a href="https://kubernetes.io/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"
+						alt="cpp" height="40" style="vertical-align:top">
+				</a></td>
+			<td> <a href="https://nginx.org/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" alt="nginx" height="40"
+						style="vertical-align:top">
+				</a></td>
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Frontend</th>
+			<td> <a href="https://www.w3schools.com/html/" target="blank">
+					<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" height="40">
+				</a></td>
+			<td><a href="https://www.w3schools.com/css/" target="blank">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css"
+						height="40">
+				</a></td>
+			<td><a href="https://getbootstrap.com/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+						alt="bootstrap" alt="bootstrap" height="40" style="vertical-align:top" />
+				</a></td>
+			<td><a href="https://jquery.com/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="jquery" height="40"
+						style="vertical-align:top" />
+				</a></td>
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Database Tools</th>
+			<td> <a href="https://www.mongodb.com/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="MongoDB" height="40"
+						style="vertical-align:top">
+				</a></td>
+			<td> <a href="https://www.postgresql.org/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="postgresql" height="40"
+						style="vertical-align:top">
+				</a></td>
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Cloud & Hosting Platforms</th>
+			<td> <a href="https://render.com/" target="blank">
+					<img src="https://imgs.search.brave.com/KAQiCDcWu9GXVw4y1XDvqZCB7v8njCAjr9VHRLw_0ck/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vY3J1bmNoYmFz/ZS1wcm9kdWN0aW9u/L2ltYWdlL3VwbG9h/ZC9jX2xwYWQsaF8y/NTYsd18yNTYsZl9h/dXRvLHFfYXV0bzpl/Y28sZHByXzEvajh6/MDJzc3RlZWE0emox/azFueXo"
+						alt="aws" height="40" style="vertical-align:top">
+				</a></td>
+			<td><a href="https://aws.amazon.com/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"
+						alt="aws" height="40" style="vertical-align:top">
+				</a></td>
+			<!-- <td><img src="image23.jpg"></td>
+      <td><img src="image24.jpg"></td>
+      <td><img src="image25.jpg"></td> -->
+		</tr>
+		<tr style="border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">CI/CD & Version Control</th>
+			<td> <a href="https://git-scm.com" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+						alt="git" height="40" style="vertical-align:top; margin:5px" />
+				</a></td>
+			<td><a href="https://github.com/dev-ayaa" target="blank">
+					<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"
+						height="40" style="vertical-align:top; margin:5px" />
+				</a></td>
+			<td> <a href="https://about.gitlab.com/" target="blank">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/512px-GitLab_logo.svg.png?20220125120047"
+						alt="git" height="40" style="vertical-align:top; margin:5px" />
+				</a></td>
+			<td> <a href="https://www.travis-ci.com/" target="blank">
+					<img src="https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png" alt="travis-ci" height="40"
+						style="vertical-align:top; margin:5px" />
+				</a></td>
+		</tr>
+		<tr style=" border-bottom: 1px solid black;" align="center">
+			<th align="left" style="padding-left: 1rem;">Preferred IDEs & Tools</th>
+			<td> <a href="https://www.jetbrains.com/" target="blank">
+					<img src="https://www.logo.wine/a/logo/JetBrains/JetBrains-Logo.wine.svg" alt="jetbrains"
+						height="50" style="vertical-align:top" />
+				</a></td>
+			<td> <a href="https://code.visualstudio.com/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+						alt="VS Code" height="50" style="vertical-align:top">
+				</a></td>
+			<td> <a href="http://neovim.io/" target="blank">
+					<img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="nvim" height="50"
+						style="vertical-align:top" />
+				</a></td>
+			<td> <a href="https://postman.com" target="blank">
+					<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman"
+						height="50" style="vertical-align:top" />
+				</a></td>
+			<td> <a href="https://ubuntu.com/" target="blank">
+					<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"
+						alt="ubuntu" height="50" style="vertical-align:top" />
+				</a></td>
+		</tr>
+	</table>
 <hr>
 <h3 align="center">Let's Connect</h3>
 <div style="margin-top:10px" align="center"> 
