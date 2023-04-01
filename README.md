@@ -35,7 +35,7 @@
           src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF"></td>
       <td style="text-align: center;width: 70%;padding: 10px;border: 1px solid black;font-family: 'Dancing Script', cursive;
   font-size: larger;">
-        <p>Code</p>
+        <p style="font-size:300px;">Code</p>
         <p>Eat</p>
         <p>Sleep</p>
       </td>
@@ -185,8 +185,6 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
           alt="example" />
       </a>
-    </div>
-    <div>
       <a href="https://www.hackerrank.com/example" target="_blank">
         <img
           src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black"
