@@ -6,16 +6,13 @@
 </head>
 
 <body>
-  <h1 align="center">Meet Yusuf Akinleye<img width="30px"
-      src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+  <h2 align="center"><em>Meet</em> Yusuf Akinleye<img width="30px"
+      src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
   <div align="center">
     <h3 font-size="20" align="center">Software Engineer | Technical Writer </h3>
     <p>Being authentic and making an impact!</p>
   </div>
-
   <hr>
-  <br>
-
   <ul text-align="center">
     <li>👨‍💻 I’m currently into Backend with Go</li>
     <li>🌱 I’m currently learning on K8s</li>
@@ -27,7 +24,6 @@
     <li>💡 <b>Motivation:</b> <em>Self-expression fuels my coding creativity.</em></li>
     <li>⚡⚡ <b>Fact:</b><em> Coding is a passion, not just a profession</em></li>
   </ul>
-  <br>
   <hr>
   <table style="margin: 0 auto;border-collapse: collapse;">
     <tr>
