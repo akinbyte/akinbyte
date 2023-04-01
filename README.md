@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
 </head>
 
 <body>
@@ -29,20 +29,20 @@
   </ul>
   <br>
   <hr>
-  <table style="margin: 0 auto;
-  border-collapse: collapse;">
+  <table style="margin: 0 auto;border-collapse: collapse;">
     <tr>
-      <td style="text-align: center;width: 50%;padding: 10px; border: 1px solid black;"><img
+      <td style="	text-align: center;width: 50%;padding: 10px; border: 1px solid black;"><img
           src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF"></td>
-      <td style="text-align: center;width: 100%;padding: 10px;border: 1px solid black;">
-        <p style="font-family: 'Dancing Script', cursive; font-size: larger;">Code</p>
-        <p style="font-family: 'Dancing Script', cursive; font-size: larger;">Eat</p>
-        <p style="font-family: 'Dancing Script', cursive; font-size: larger;">Sleep</p>
+      <td style="text-align: center;width: 70%;padding: 10px;border: 1px solid black;font-family: 'Dancing Script', cursive;
+  font-size: larger;">
+        <p>Code</p>
+        <p>Eat</p>
+        <p>Sleep</p>
       </td>
     </tr>
   </table>
-
-  <table style="border: 1px solid black; padding:2em 2em; border-collapse: collapse">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <table style=" border: 1px solid black; padding:2em 2em; border-collapse: collapse">
     <tr style="border-bottom: 1px solid black;" align="center">
       <h2 align="center">Computing Skills</h2>
     </tr>
@@ -194,18 +194,11 @@
       </a>
     </div>
   </div>
-
   <hr>
   <div align="center">
-
     <h2 align="center" style="margin: 5px 5px;">stats</h2>
-
-    <p><a href="https://github.com/dev-ayaa"><img
-          src="https://github-readme-stats.vercel.app/api?username=dev-ayaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-          alt=""></a>
-      <a href="https://github.com/dev-ayaa"><img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ayaa&theme=material-palenight" alt=""></a>
-    </p>
+    <p><a href="https://github.com/dev-ayaa"><img src="https://github-readme-stats.vercel.app/api?username=dev-ayaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt=""></a>
+      <a href="https://github.com/dev-ayaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ayaa&theme=material-palenight" alt=""</a></p>
   </div>
 </body>
 
