@@ -8,12 +8,14 @@
 <body>
   <h2 align="center"><em>Meet</em> Yusuf Akinleye<img width="30px"
       src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
-  <div align="center">
-    <h3 font-size="20" align="center">Software Engineer | Technical Writer </h3>
-    <p>Being authentic and making an impact!</p>
+      
+  :man_technologist: About Me
+  <div align="left">
+    <p font-size="20px">I am a Software Engineer and a Technical Writer </p>
+    <p><em>Being authentic and making an impact!</em></p>
   </div>
   <hr>
-  <ul text-align="center">
+  <ul text-align="left">
     <li>👨‍💻 I’m currently into Backend with Go</li>
     <li>🌱 I’m currently learning on K8s</li>
     <li>📚 I will be learning Rust later on</li>
@@ -38,9 +40,11 @@
     </tr>
   </table>
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
-  <table style=" border: 1px solid black; padding:2em 2em; border-collapse: collapse">
+
+
+:hammer_and_wrench: Languages and Tools
+<table style=" border: 1px solid black; padding:2em 2em; border-collapse: collapse">
     <tr style="border-bottom: 1px solid black;" align="center">
-      <h2 align="center">Computing Skills</h2>
     </tr>
     <tr style="border-bottom: 1px solid black;" align="center">
       <th align="left" style="padding-left: 1rem;">Programming Languages</th>
@@ -93,10 +97,6 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
             alt="bootstrap" alt="bootstrap" height="40" style="vertical-align:top" />
         </a></td>
-      <td><a href="https://jquery.com/" target="blank">
-          <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="jquery" height="40"
-            style="vertical-align:top" />
-        </a></td>
     </tr>
     <tr style="border-bottom: 1px solid black;" align="center">
       <th align="left" style="padding-left: 1rem;">Database Tools</th>
@@ -132,11 +132,6 @@
       <td><a href="https://github.com/dev-ayaa" target="blank">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40"
             style="vertical-align:top; margin:5px" />
-        </a></td>
-      <td> <a href="https://about.gitlab.com/" target="blank">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/512px-GitLab_logo.svg.png?20220125120047"
-            alt="git" height="40" style="vertical-align:top; margin:5px" />
         </a></td>
       <td> <a href="https://www.travis-ci.com/" target="blank">
           <img src="https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png" alt="travis-ci" height="40"
@@ -181,11 +176,9 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
           alt="example" />
       </a>
-      <a href="https://www.hackerrank.com/example" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black"
-          alt="example" />
-      </a>
+    <a href="https://wa.me/+2349068849124">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+  </a>
     </div>
   </div>
   <hr>
