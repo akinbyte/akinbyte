@@ -179,6 +179,9 @@
     <a href="https://wa.me/+2349068849124">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
+      <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-ayaa&style=flat-square&color=green" alt=""/>
+</div>
     </div>
   </div>
   <hr>
