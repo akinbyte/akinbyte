@@ -3,12 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
-  <style>
-    p {
-      font-family: 'Dancing Script', cursive;
-    }
-  </style>
 </head>
 
 <body>
