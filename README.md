@@ -3,6 +3,12 @@
 
 <head>
   <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <style>
+    p {
+      font-family: 'Dancing Script', cursive;
+    }
+  </style>
 </head>
 
 <body>
@@ -31,9 +37,9 @@
           src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF"></td>
       <td style="text-align: center;width: 70%;padding: 10px;border: 1px solid black;font-family: 'Dancing Script', cursive;
   font-size: larger;">
-        <p style="font-size:300px;">Code</p>
-        <p>Eat</p>
-        <p>Sleep</p>
+        <p style="font-size:300px; font-family:cursive;">Code</p>
+        <p style="font-family:cursive;">Eat</p>
+        <p style="font-family:cursive;">Sleep</p>
       </td>
     </tr>
   </table>
