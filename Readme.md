@@ -6,12 +6,12 @@
 </head>
 
 <body>
-  <h2 align="center"><em>Meet</em> Yusuf Akinleye<img width="30px"
-      src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
+  <h1 align="center"><em>Meet</em> Yusuf Akinleye<img width="30px"
+      src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
       
   :man_technologist: About Me
   <div align="left">
-    <p font-size="20px">I am a Software Engineer and a Technical Writer </p>
+    <p font-size="30px">I am a Software Engineer and a Technical Writer </p>
     <p><em>Being authentic and making an impact!</em></p>
   </div>
   <hr>
